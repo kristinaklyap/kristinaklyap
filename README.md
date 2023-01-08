@@ -1,9 +1,10 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Kristi</h1>
 <h3 align="center">Self taught developer, mostly interested in area of Front-End / JavaScript / React development.</h3>
 
 - 🔭 I’m currently working on:
-  - [UI Kit](https://kristinaklyap.github.io/ui-kit/#/avatar){:target="_blank"}
-  - [BALU WebShop](https://kristinaklyap.github.io/balu/){:target="_blank"}
+  - [UI Kit](https://kristinaklyap.github.io/ui-kit/#/avatar)
+  - [BALU WebShop](https://kristinaklyap.github.io/balu/)
   - Jira Chrome plugin
 
 - 🌱 I’m currently learning **React & TypeScript**
