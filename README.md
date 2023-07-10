@@ -1,6 +1,6 @@
 <base target="_blank">
 <h1 align="center">Hi 👋, I'm Kristi</h1>
-<h3 align="center">Self taught developer, mostly interested in area of Front-End / JavaScript / React development.</h3>
+<h3 align="center">Self taught developer with over 6 years of commercial experience, mostly interested in area of Front-End / JavaScript / React development.</h3>
 
 - 🔭 [Portfolio](https://kristinaklyap.github.io/#/portfolio)
 - 🌱 I’m currently learning **NextJS & React & TypeScript**
