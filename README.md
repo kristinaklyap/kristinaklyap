@@ -20,3 +20,4 @@
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
 
 
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/kristikristi)
