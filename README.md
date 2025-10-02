@@ -1,10 +1,12 @@
 <base target="_blank">
 <h1 align="center">Hi 👋, I'm Kristi</h1>
-<h3 align="center">Self-taught developer with over 8 years of commercial experience, specializing in full-stack development with a focus on Front-End (TypeScript, JavaScript, React, NextJS) and Back-End (Node.js, Express) technologies.
-</h3>
+<p align="left">💻 Fullstack developer with 9 years of experience building scalable front-end and back-end solutions. Skilled in React, Next.js, Node.js, and Firebase, with a strong focus on clean architecture, performance, and maintainability.
 
-- 🌱 - I’m currently enhancing my skills in Next.js, React, and TypeScript 
-- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/kristina-klyap/)
+⚡ I enjoy solving complex problems and turning ideas into production-ready solutions.
+</p>
+
+- 🌱 Currently enhancing my expertise in Next.js, React, and TypeScript.
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/kristina-klyap/)
 
 ### Notable Projects:
 
@@ -15,6 +17,7 @@
 
 - **Front-End**: JavaScript, React, Next.js, TypeScript, HTML5, CSS3, SCSS
 - **Back-End**: Node.js, Express.js
-- **Testing**: Jest, Mocha
+- **CMS**: Strapi, AEM, Wordpress (with Woocommerce)
+- **Testing**: Jest, react-testing-library
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
